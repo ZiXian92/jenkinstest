@@ -7,7 +7,7 @@ public class SampleTest2 {
 
   @Test
   public void test() {
-    assertTrue(true);
+    assertTrue(true); // Main fix
   }
 
 }

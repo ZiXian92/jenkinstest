@@ -7,6 +7,7 @@ public class SampleTest {
 
   @Test
   public void test() {
+    // This test always pass
     assertTrue(true);
   }
 
