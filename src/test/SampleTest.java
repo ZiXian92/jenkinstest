@@ -7,7 +7,8 @@ public class SampleTest {
 
   @Test
   public void test() {
-    assertTrue(true);
+    fail("Test failed");
+    //assertTrue(true);
   }
 
 }
